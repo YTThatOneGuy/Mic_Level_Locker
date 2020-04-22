@@ -1,0 +1,1 @@
+wscript.exe "invisible.vbs" "lock_mic_vol.bat"
